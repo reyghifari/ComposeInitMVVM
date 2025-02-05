@@ -1,4 +1,4 @@
-package com.raihan.composeinitmvvm.ui.theme
+package com.raihan.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
