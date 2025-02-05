@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Compose Init MVVM"
 include(":app")
- 
+include(":core")
